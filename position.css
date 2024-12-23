@@ -1,0 +1,10 @@
+.P1{
+    border: 2px solid black;
+    background-color:rgb(208, 162, 251);
+}
+.P2{
+    border: 1px solid black;
+    background-color: rgb(173, 222, 253);
+    position: relative;
+    top: 30px;
+}
